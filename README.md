@@ -95,6 +95,7 @@
 ## 執行畫面
 
 執行程式後會輸出完整的 Pay Table、理論分析、Monte Carlo Simulation 與 Markov Chain 分析結果，方便比較理論值與模擬結果之間的差異。
+
 ![simulation](screenshots/simulation_result.png)
 
 ---
